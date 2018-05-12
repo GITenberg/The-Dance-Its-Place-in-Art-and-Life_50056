@@ -1,4 +1,8 @@
 _repo: The-Dance-Its-Place-in-Art-and-Life_50056
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50056-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Kinney, Troy
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '25250'
     url: http://www.gutenberg.org/2009/agents/25250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50056#The-Dance-Its-Place-in-Art-and-Life
 gutenberg_issued: '2015-09-26'
 gutenberg_type: Text
 identifiers:
